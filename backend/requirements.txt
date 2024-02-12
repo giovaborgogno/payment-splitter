@@ -1,0 +1,4 @@
+Django
+django-soft-delete
+djangorestframework
+siwe-auth-django
